@@ -68,7 +68,7 @@ ru:
         quantity: "Количество"
       order: 
         checkout_complete: "Заказ завершен"
-        completed_at: "Обработано"
+        completed_at: "Дата завершения"
         ip_address: "IP адрес"
         item_total: "Всего товаров"
         number: "Номер"
@@ -360,7 +360,7 @@ ru:
   discount_amount: "Сумма скидки"
   display: "Показать"
   edit: "Редактировать"
-  edit_general_settings: "Редактировать Общие Настройки"
+  edit_general_settings: "Редактировать общие настройки"
   editing_billing_integration: "Редактировать интеграцию с биллингом"
   editing_category: "Редактирование категории"
   editing_mail_method: "Редактирование метода отправки почты"
@@ -388,7 +388,7 @@ ru:
   enable_login_via_login_password: "Авторизоваться с помощью пары email/пароль"
   enable_login_via_openid: "Авторизоваться с помощью OpenID"
   enable_mail_delivery: "Включить доставку почты"
-  enter_atleast_five_letters: "Введите, по крайней мере, пять символов имени клиента"
+  enter_atleast_five_letters: "Введите, по крайней мере, пять букв имени клиента"
   enter_exactly_as_shown_on_card: "Пожалуйста, введите точно как показано на карте"
   enter_password_to_confirm: "(необходимо указать Ваш текущий пароль для подтверждения изменений)"
   environment: "Среда окружения"
@@ -474,7 +474,7 @@ ru:
     operators: 
       gt: "больше"
       gte: "больше или равно"
-  items: "Наимено<br />вания"
+  items: "Наимено<wbr />вания"
   last_14_days: "Предыдущие 14 дней"
   last_5_orders: "Последние 5 заказов"
   last_7_days: "Предыдущие 7 дней"
@@ -513,7 +513,7 @@ ru:
   mark_shipped: "Отметить как отправленный"
   master_price: "Основная цена"
   max_items: "Максимальное число наименований по начальной ставке"
-  may_be_combined_with_other_promotions: Может быть совмещено с другими рекламными акциями
+  may_be_combined_with_other_promotions: Может быть совмещена с другими рекламными акциями
   meta_description: "Описание"
   meta_keywords: "Ключевые слова"
   metadata: "Метаданные"
@@ -649,7 +649,7 @@ ru:
   payment_state: "Статус платежа"
   payment_states: 
     balance_due: частично
-    checkout: проверяется
+    checkout: оформляется
     completed: завершен
     credit_owed: в кредит
     failed: ошибка
@@ -935,7 +935,7 @@ ru:
   show_active: "Показать активные"
   show_deleted: "Показать удаленные"
   show_incomplete_orders: "Показать необработанные заказы"
-  show_only_complete_orders: "Показывать только обработанные заказы"
+  show_only_complete_orders: "Показывать только завершённые заказы"
   show_out_of_stock_products: "Показать товары, которых нет в наличии"
   show_price_inc_vat: "Показывать цену с налогом"
   showing_first_n: "Показаны первые %{n}"
