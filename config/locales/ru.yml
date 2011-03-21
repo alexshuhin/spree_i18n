@@ -87,7 +87,7 @@ ru:
       product_group: 
         name: "Название"
         product_count: "Кол-во товаров"
-        product_scopes: "Фильрты"
+        product_scopes: "Фильтры"
         products: "Товары"
         url: "URL"
       product_scope: 
