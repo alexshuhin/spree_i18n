@@ -93,6 +93,13 @@ ru:
       product_scope: 
         arguments: "Аргументы"
         description: "Описание"
+      promotion:
+        name: "Название"
+        description: "Описание"
+        code: "Код"
+        usage_limit: "Ограничения"
+        starts_at: "Начало"
+        expires_at: "Истекает"
       property: 
         name: "Наименование"
         presentation: "Отображение"
