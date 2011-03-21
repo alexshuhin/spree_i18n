@@ -180,8 +180,8 @@ ru:
         one: "Роль"
         other: "Роли"
       shipment: 
-        one: "Отправка"
-        other: "Отправки"
+        one: "Доставка"
+        other: "Доставки"
       shipping_category: 
         one: "Категория доставки"
         other: "Категории доставки"
@@ -453,9 +453,9 @@ ru:
   images: "Картинки"
   images_for: "Картинки для"
   in_progress: "В процессе"
-  include_in_shipment: "Включить в отправку"
-  included_in_other_shipment: "Включено в другую отправку"
-  included_in_this_shipment: "Включено в эту отправку"
+  include_in_shipment: "Включить в доставку"
+  included_in_other_shipment: "Включено в другую доставку"
+  included_in_this_shipment: "Включено в эту доставку"
   instructions_to_reset_password: "Заполните форму, чтобы спросить пароль, новый пароль будет отправлен к вам по email"
   integration_settings_warning: "Если вы меняете платежную систему, то необходимо сохранить данное изменение, только после этого вы сможете редактировать параметры интеграции"
   intercept_email_address: "Перехват писем"
@@ -510,7 +510,7 @@ ru:
   mail_methods: "Методы отправки почты"
   mail_server_preferences: "Настройки почтового сервера"
   make_refund: "Сделать возврат"
-  mark_shipped: "Отметить как отправленный"
+  mark_shipped: "Отметить как доставленный"
   master_price: "Основная цена"
   max_items: "Максимальное число наименований по начальной ставке"
   may_be_combined_with_other_promotions: Может быть совмещена с другими рекламными акциями
@@ -543,7 +543,7 @@ ru:
   new_property: "Новое свойство"
   new_prototype: "Новый прототип"
   new_return_authorization: "Новое разрешение возврата"
-  new_shipment: "Новая отправка"
+  new_shipment: "Новая доставка"
   new_shipping_category: "Новая категория доставки"
   new_shipping_method: "Новый способ доставки"
   new_state: "Новый регион/область"
@@ -836,7 +836,7 @@ ru:
   provider_settings_warning: "Если вы меняете провайдера, вы должны сохранить это изменение, прежде чем вы сможете изменить настройки провайдера."
   qty: "Кол-во"
   quantity_returned: "Количество возврата"
-  quantity_shipped: "Отправленное количество"
+  quantity_shipped: "Доставленное количество"
   range: "Диапазон"
   rate: "Ставка"
   reason: "Причина"
@@ -901,23 +901,23 @@ ru:
   settings: "Настройки"
   ship: "доставка"
   ship_address: "Адрес доставки"
-  shipment: "Отправка"
-  shipment_details: "Детали отправки"
+  shipment: "Доставка"
+  shipment_details: "Детали доставки"
   shipment_mailer: 
     shipped_email: 
       subject: "Уведомление о доставке"
-  shipment_number: "Отправка №"
-  shipment_state: "Статус отправки"
+  shipment_number: "Доставка №"
+  shipment_state: "Статус доставки"
   shipment_states: 
     backorder: задерживается
     partial: частично
     pending: ожидает
     ready: готов
-    shipped: отправлен
-  shipment_updated: "Отправка обновлена"
-  shipments: "Отправки"
-  shipped: "Отправлено"
-  shipping: "Отправка"
+    shipped: доставлен
+  shipment_updated: "Доставка обновлена"
+  shipments: "Доставки"
+  shipped: "Доставлено"
+  shipping: "Доставка"
   shipping_address: "Адрес доставки"
   shipping_categories: "Категории доставки"
   shipping_categories_description: "Настройка категорий доставки - укажите, какие товары могут быть доставлены какими способами"
@@ -1048,7 +1048,7 @@ ru:
   variants: "Варианты"
   vat: "НДС"
   version: "Версия"
-  view_shipping_options: "Посмотреть настройки отправки"
+  view_shipping_options: "Посмотреть настройки доставки"
   void: "Анулировать"
   website: "Сайт"
   weight: "Вес"
