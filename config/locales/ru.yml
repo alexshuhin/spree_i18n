@@ -102,7 +102,7 @@ ru:
         expires_at: "Истекает"
       property: 
         name: "Наименование"
-        presentation: "Отображение"
+        presentation: "Отображать как"
       prototype: 
         name: "Наименование"
       return_authorization: 
@@ -672,7 +672,7 @@ ru:
   place_order: "Разместить заказ"
   please_create_user: "Пожалуйста, создайте учётную запись."
   powered_by: "Работает на"
-  presentation: "Отображение"
+  presentation: "Отображать как"
   preview: "Предпросмотр"
   previous: "пред."
   price: "Цена"
